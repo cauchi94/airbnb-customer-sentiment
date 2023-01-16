@@ -58,4 +58,4 @@ The required libraries to execute all the scripts successfully are the following
 
 ## Data
 
-Data for reviews.csv and listings.csv were both downloaded using: http://insideairbnb.com/
+Data for _**reviews.csv**_ and _**listings.csv**_ were both downloaded using: **http://insideairbnb.com/**.
