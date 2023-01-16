@@ -46,12 +46,12 @@ The required libraries to execute all the scripts successfully are the following
 -                                 spacy: for NLP such as tokenization, named entity recognition with pre-trained models for several languages  
 -                             wordcloud: a visual representation of text data  
 -                                pprint: prints Python data structures in a form which can be used as input to the interpreter  
--                              pyLDAvis: for interactive topic model visualization  
--                                gensim: for representing documents as semantic vectors  
--                                pickle: serializing and deserializing a Python object structure  
--                           scipy.stats: probability distributions, summary and frequency statistics, correlation functions and statistical tests  
-- sklearn.linear_model.LinearRegression: linear model with coefficients  
--     sklearn.compose.ColumnTransformer: applies transformers to columns of an array or pandas DataFrame  
--          sklearn.impute.SimpleImputer: univariate imputer for completing missing values with simple strategies  
--             sklearn.pipeline.Pipeline: to assemble several steps that can be cross-validated together while setting different parameters  
+-                              pyLDAvis: for interactive topic model visualization
+-                                gensim: for representing documents as semantic vectors
+-                                pickle: serializing and deserializing a Python object structure
+-                           scipy.stats: probability distributions, summary and frequency statistics, correlation functions and statistical tests
+- sklearn.linear_model.LinearRegression: linear model with coefficients
+-     sklearn.compose.ColumnTransformer: applies transformers to columns of an array or pandas DataFrame
+-          sklearn.impute.SimpleImputer: univariate imputer for completing missing values with simple strategies
+-             sklearn.pipeline.Pipeline: to assemble several steps that can be cross-validated together while setting different parameters
 - sklearn.metrics.classification_report: to build a text report showing the main classification metrics
