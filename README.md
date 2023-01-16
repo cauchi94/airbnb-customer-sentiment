@@ -30,3 +30,7 @@ All the data cited are referred to the listings in London.
 1) Detailed Review Data for listings includes listing id, the review that the listing refers to, the date of the review, and the text in the review. The analysis may not completely cover the whole timespan present in the data frame but be instead limited to the last disposable year, as customer preferences often are subject to big changes over time and outdated data may lead to wrong insights. The data will then be used to train the LDA.  
   
 2) Listings’ Data, including but not limited to price, location, number of beds, bathrooms, and score ratings, to be used to train regression models and understand if the presence of specific topics in a listing’s reviews has an effect on the price/rating score of that listing itself.
+
+## Motivation
+
+By using the topic modeling technique, we aim to uncover hidden structures in user reviews and derive useful insights for hosts to improve their listing’s customer experience.
