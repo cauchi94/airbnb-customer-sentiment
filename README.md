@@ -55,3 +55,7 @@ The required libraries to execute all the scripts successfully are the following
 - _sklearn.impute.SimpleImputer_: univariate imputer for completing missing values with simple strategies
 - _sklearn.pipeline.Pipeline_: to assemble several steps that can be cross-validated together while setting different parameters
 - _sklearn.metrics.classification_report_: to build a text report showing the main classification metrics
+
+## Data
+
+Data for reviews.csv and listings.csv were both downloaded using: http://insideairbnb.com/
