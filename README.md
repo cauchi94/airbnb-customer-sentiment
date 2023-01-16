@@ -1,7 +1,7 @@
 # airbnb_customer_sentiment
 
 ## Description
-Analysis of text data by extracting the main topics from airbnb dataset using Latent Dirichlet Allocation (LDA) and then Regression Analysis to interpret the topics.
+Analysis of text data by extracting the main topics from airbnb dataset using **Latent Dirichlet Allocation (LDA)** and then **Linear Regression** to interpret the topics.
 
 ## Business Need
 
